@@ -3,7 +3,7 @@
     "id":"com.nessie.vpm-listing",
     "url":"https://nestorboy.github.io/Nessie-VPM/index.json",
     "author":{
-        "name":"Nessie"
+        "name":"Nessie",
         "url":"https://github.com/Nestorboy"
     },
     "description":"Example listing of VRChat packages",
