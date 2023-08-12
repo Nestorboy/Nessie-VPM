@@ -1,7 +1,7 @@
 {
     "name":"Nessie's VPM Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "id":"com.nessie.vpm-listing",
+    "url":"https://Nestorboy.github.io/Nessie-VPM/index.json",
     "author":{
         "name":"Nessie"
     },
