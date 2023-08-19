@@ -11,6 +11,8 @@
         "url":"https://github.com/Nestorboy/Nessie-VPM",
         "text":"View on GitHub"
     },
-    "githubRepos":[],
+    "githubRepos":[
+        Nestorboy/NUMovement,
+    ],
     "packages":[]
 }
